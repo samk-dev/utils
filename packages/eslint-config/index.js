@@ -1,10 +1,5 @@
 module.exports = {
-  root: true,
-  extends: [
-    'plugin:prettier/recommended',
-    '@nuxtjs/eslint-config-typescript',
-    'prettier'
-  ],
+  extends: ['@nuxtjs/eslint-config-typescript', 'prettier'],
   plugins: ['prettier'],
   rules: {
     'vue/max-attributes-per-line': 0,
