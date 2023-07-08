@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "./prettier-config.json",
   "license": "MIT",
+  "repository": "samk-dev/utils/packages/prettier-config",
   "dependencies": {
     "prettier": "^2.8.7"
   }
