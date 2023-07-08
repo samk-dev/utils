@@ -1,0 +1,9 @@
+{
+  "name": "@samk-dev/prettier-config",
+  "version": "1.0.0",
+  "main": "./prettier-config.json",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.7"
+  }
+}
