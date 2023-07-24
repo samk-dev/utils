@@ -17,3 +17,12 @@ Create a .eslintrc in your project and extend the config
   "extends": [ "@samk-dev/eslint-config" ],
 }
 ```
+
+If using in a root of a project add `root: true`
+
+```js
+{
+  "root": true,
+  "extends": ["@samk-dev/eslint-config"]
+}
+```
