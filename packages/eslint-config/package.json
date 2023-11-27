@@ -1,6 +1,6 @@
 {
   "name": "@samk-dev/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "files": [
     "index.js"
@@ -8,8 +8,8 @@
   "repository": "samk-dev/utils/packages/eslint-config",
   "dependencies": {
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
-    "eslint": "^8.49.0",
+    "eslint": "^8.54.0",
     "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-prettier": "^5.0.0"
+    "eslint-plugin-prettier": "^5.0.1"
   }
 }
